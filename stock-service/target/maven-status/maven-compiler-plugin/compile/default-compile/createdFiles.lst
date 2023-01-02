@@ -1,0 +1,6 @@
+com\udupa\stockservice\KafkaConfig.class
+com\udupa\stockservice\ProductRepository.class
+com\udupa\stockservice\StockServiceApplication.class
+com\udupa\stockservice\ProductController.class
+com\udupa\stockservice\ProductEntity.class
+com\udupa\stockservice\ProductService.class

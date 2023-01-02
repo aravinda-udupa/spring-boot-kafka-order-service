@@ -1,0 +1,7 @@
+com\udupa\orderservice\Utils.class
+com\udupa\orderservice\KafkaConfig.class
+com\udupa\orderservice\OrderEntity.class
+com\udupa\orderservice\OrderServiceApplication.class
+com\udupa\orderservice\OrderRepository.class
+com\udupa\orderservice\OrderController.class
+com\udupa\orderservice\OrderService.class
